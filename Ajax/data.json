@@ -1,0 +1,17 @@
+[
+     {
+          "name": "Imran Baitham",
+          "age": "19",
+          "company": "Front-End Developer"
+     },
+     {
+          "name": "Nadim Abbas",
+          "age": "25",
+          "company": "Back-End developer"
+     },
+     {
+          "name": "Shafi Khan",
+          "age": "22",
+          "company": "Server-Site developer"
+     }
+]
